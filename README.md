@@ -42,14 +42,27 @@ Working on **AI-powered software products**, contributing to the development of 
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xNunana" alt="Paul's GitHub Streak" />
+    <th>Personal GitHub — @0xNunana</th>
+    <th>BoxPower GitHub — @Paul-boxpower</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xNunana" alt="0xNunana GitHub Streak" />
+      <br>
+      <strong>🚀 Personal Projects & AI Research</strong>
+      <br>
+      <sub>AI/ML • Computer Vision • Edge AI • Open Source</sub>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-boxpower" alt="Paul's GitHub Streak" />
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paul-boxpower" alt="Paul-boxpower GitHub Streak" />
+      <br>
+      <strong>💼 Professional Engineering</strong>
+      <br>
+      <sub>BoxPower • Production Software • AI-Powered Applications</sub>
     </td>
   </tr>
 </table>
+
 
 ---
 
