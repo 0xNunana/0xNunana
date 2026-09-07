@@ -43,9 +43,6 @@ Working on **AI-powered software products**, contributing to the development of 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xNunana&show_icons=true&locale=en&layout=compact" alt="Paul's Top Languages" />
-    </td>
-    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xNunana" alt="Paul's GitHub Streak" />
     </td>
     <td>
