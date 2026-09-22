@@ -12,7 +12,7 @@ I'm a software engineer with a strong interest in **AI/ML, Computer Vision, and 
 * 🚀 **Building:** AI products, developer tools, and scalable software solutions
 * 🤝 **Open to:** Collaborations in AI/ML, Computer Vision, Edge AI, research, and innovative software projects
 * 🌍 **Based in:** Ghana
-* 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/paul-yao-kudaya) · [Portfolio](https://0xnunana.vercel.app)
+* 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/paul-yao-kudaya) · [Portfolio](https://0xnunana.vercel.app) · [Google Dev](https://g.dev/0xnunana)
 
 ---
 
